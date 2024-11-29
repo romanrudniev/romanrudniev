@@ -1,4 +1,7 @@
-Hi there 😸
+<h2>Hi there 😸</h2>
+<br>
+My name is Roman, I am from Ukraine.
+<br>
 <br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)

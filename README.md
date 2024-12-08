@@ -2,7 +2,7 @@ Hi there 😸
 <br>
 My name is Roman, I am from Ukraine.
 <br>
-I work with PyCharm and know the following programming languages: Python, HTML, and CSS. I'm also still learning Java in IntelliJ IDEA.
+I work with PyCharm and know the following programming languages: Python, HTML, and CSS. I am currently working with the Django framework. I'm also still learning Java in IntelliJ IDEA.
 <br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
